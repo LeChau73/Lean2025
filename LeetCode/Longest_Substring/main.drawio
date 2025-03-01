@@ -1,0 +1,48 @@
+<mxfile host="65bd71144e">
+    <diagram id="F54fx5xr2MYg-s0der5I" name="Page-1">
+        <mxGraphModel dx="990" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="index 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="254" width="74" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Track mảng đưa vào" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="237" width="196" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="index 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="189" y="372" width="74" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Track mảng con chứa,lưu vị trí số ký tự hiện tại của mảng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="355" width="196" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="228" y="576" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="index 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="191" y="472" width="74" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Lưu vị trí tìm được trong mảng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="407" y="455" width="196" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Nếu mà tìm thấy thì sẽ resize lại mảng cho nên&amp;nbsp;&lt;br&gt;Ví dụ Hiện tại index 2 = 5, tìm đc tại index3 = 3&lt;div&gt;Thì resize lại : 5 -3 = 2 thằng&amp;nbsp;&lt;/div&gt;&lt;div&gt;ví dụ a b c d e f tìm thấy tại d thì&amp;nbsp;&lt;/div&gt;&lt;div&gt;d e f sẽ lưu: tương đương vị trí 3 -&amp;gt; 5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="64.5" y="568" width="323" height="87" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

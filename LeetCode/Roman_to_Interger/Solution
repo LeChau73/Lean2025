@@ -1,0 +1,11 @@
+1: Tạo ra 2 undoer_map :
+    map1 : Chứa Symbol : value
+    undoer_map : chứa đặc biệt
+    array : chứa từng ký tự
+
+
+Chuyển tất cả ký tự vào undoer_map
+
+2: Duyệt qua từng ký tự, và ký tự 2
+
+3: Nếu value 1 < 2 thì mapping vào map chưa ký tự đặc biệt,còn ko cộng bình thường

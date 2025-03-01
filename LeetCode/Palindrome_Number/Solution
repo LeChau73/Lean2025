@@ -1,0 +1,4 @@
+Cách 1: Kiểm tra xem số đó có bao nhiêu chữ số
+ Chia từng số lưu vào 1 vector
+ đảo 2 vector đó 
+ so sánh
