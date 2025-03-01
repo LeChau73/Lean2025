@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/animal.o
+release/test.o
+release/source.o
+release/destination.o
+release/moc_mainwindow.o
+release/moc_animal.o
+release/moc_test.o
+release/moc_source.o
+release/moc_destination.o
